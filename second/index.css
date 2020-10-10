@@ -1,0 +1,68 @@
+body {
+    background-color: white;
+}
+
+.top-div {
+    height: 250px;
+    width: 1000px;
+    margin: 30px auto;
+    border: solid black 4px;
+}
+
+.middle-div {
+    height: 250px;
+    width: 1000px;
+    margin: 30px auto;
+    border: dotted black 3px;
+}
+
+.bottom-div {
+    height: 250px;
+    width: 500px;
+    margin: 30px auto;
+    border: solid darkgrey 1px;
+    box-shadow: 4px 4px 5px rgb(175, 175, 175);
+}
+
+.purple-rect {
+    height: 145px;
+    width: 50px;
+    background-color: purple;
+    margin-top: 80px;
+    margin-left: 10px;
+    float: left;
+}
+
+.green-rect {
+    height: 200px;
+    width: 400px;
+    background-color: green;
+    margin: 25px;
+    margin-left: 60px;
+    float: left;
+}
+
+.blue-circle {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(90, 188, 226);
+    border-radius: 50%;
+    margin: 25px;
+    float: left;
+}
+
+.yellow-rect {
+    background-color: rgb(253, 247, 188);
+    height: 180px;
+    width: 930px;
+    margin: 35px auto;
+    box-shadow: 10px 10px 5px rgb(71, 71, 71);
+}
+
+h1 {
+    margin: 100px auto;
+    text-align: center;
+    color: navy;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
