@@ -17,8 +17,6 @@ div {
 
 .white-div {
     background-color: white;
-    display: flex;
-    flex-direction: column;
     min-height: 150px;
     height: auto;
     padding: 40px;
